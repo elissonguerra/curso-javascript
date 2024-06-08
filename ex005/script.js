@@ -11,3 +11,11 @@ c.style.background = 'white';
 
 var e = window.document.getElementsByClassName('use')[0];
 e.style.background = 'red';
+
+var f = window.document.querySelector('div#teste');
+f.style.background = 'gray';
+f.style.color = 'black';
+
+var g = window.document.querySelector('div.teste2');
+g.style.background = 'purple';
+g.style.color = 'gray';

@@ -1,0 +1,10 @@
+div#area {
+    display: flex;
+    background: rgb(42, 139, 42);
+    color: white;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    font: normal 20pt Arial;
+}
